@@ -2,7 +2,7 @@ name: Give me XP
 
 on:
   schedule:
-    - cron: '3 0 * * *'
+    - cron: '7 1 * * *'
 
 
 jobs:
